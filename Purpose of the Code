@@ -1,0 +1,21 @@
+Purpose of the Code
+
+This project implements two fuadaniental searching algorithms.
+
+1. Birary Search: Efficiently finds the position of a target element in a sorted list.
+
+2. Linear Search: Iterates through the list to find the target element.
+
+Linear Search:
+
+Best Case. O(1)
+
+Worst Case: O(n)
+
+Time Complexity
+
+Binary Search:
+
+Best Case: O(1)
+
+Worst Case: O(logn)
